@@ -1,0 +1,22 @@
+{
+  "wheel_id": 948,
+  "structure": "umbrella",
+  "slug": "bathrenovationmelbourne-com-105",
+  "project": "bathroom-renovations-melbourne-planning-guide-649edfcd35daf9ce5",
+  "parent_t1_ref": "bathrenovationmelbourne-com-152",
+  "node_role": "feeder",
+  "money_target": "bathrenovationmelbourne.com.au",
+  "primary_kw": "bathroom renovations melbourne planning guide",
+  "intended_url": "http://bathroom-renovations-melbourne-planning-guide-649edfcd35daf9ce5.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "8f2a66a80b359f18",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/bathrenovationmelbourne-com-152/",
+      "anchor": "this bathroom renovations melbourne budget tips resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
